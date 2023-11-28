@@ -13,19 +13,5 @@
   ],
   "aliases": {},
   "rules": {},
-  "extendedStyleguides": [
-    {
-      "id": "cHJqOjQ",
-      "name": "Intelligent Concrete Sausages",
-      "slug": "seeded-intelligent-concrete-sausages-f6bxw",
-      "workspace": {
-        "slug": "seeded-enterprise",
-        "name": "seeded-enterprise"
-      },
-      "latestRelease": {
-        "release": 1
-      }
-    }
-  ],
   "extendedDefault": true
 }
